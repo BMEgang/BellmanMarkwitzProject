@@ -1,0 +1,10 @@
+特征选用了['open', 'high', 'low', 'close', 'volume','macd','boll_ub','boll_lb','close_30_sma','close_60_sma','vix']
+300 epoch
+
+day: 1509, episode: 30
+begin_total_asset: 10000.00
+end_total_asset: 18917.88
+total_reward: 8917.88
+total_cost: 9.99
+total_trades: 22635
+Sharpe: 0.490

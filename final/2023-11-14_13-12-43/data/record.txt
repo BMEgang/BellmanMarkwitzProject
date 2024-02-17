@@ -1,0 +1,43 @@
+系统随机
+420epoch
+尝试用新的网络
+class Net(nn.Module):
+    def __init__(self, input_size, output_size):
+        super(Net, self).__init__()
+        # 原始层
+        self.fc1 = nn.Linear(input_size, 128)
+        self.fc2 = nn.Linear(128, 64)
+        self.fc3 = nn.Linear(64, 64)
+        self.fc4 = nn.Linear(64, 32)
+        self.fc5 = nn.Linear(32, 32)
+        self.fc6 = nn.Linear(32, 16)
+        # 新增层
+        self.fc7 = nn.Linear(16, 16)
+        self.fc8 = nn.Linear(16, 16)
+        self.fc9 = nn.Linear(16, 16)
+        # 输出层
+        self.fc10 = nn.Linear(16, output_size)
+
+    def forward(self, x):
+        # 原始层的激活
+        x = torch.relu(self.fc1(x))
+        x = torch.relu(self.fc2(x))
+        x = torch.relu(self.fc3(x))
+        x = torch.relu(self.fc4(x))
+        x = torch.relu(self.fc5(x))
+        x = torch.relu(self.fc6(x))
+        # 新增层的激活
+        x = torch.relu(self.fc7(x))
+        x = torch.relu(self.fc8(x))
+        x = torch.relu(self.fc9(x))
+        # 输出层
+        x = self.fc10(x)
+        return x
+
+day: 1509, episode: 10
+begin_total_asset: 10000.00
+end_total_asset: 28447.15
+total_reward: 18447.15
+total_cost: 9.99
+total_trades: 24128
+Sharpe: 0.770

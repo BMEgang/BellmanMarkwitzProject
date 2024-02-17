@@ -1,0 +1,10 @@
+epoch = 180
+系统随机
+特征['open', 'high', 'low', 'close', 'volume','close_30_sma','close_60_sma']
+day: 1509, episode: 30
+begin_total_asset: 10000.00
+end_total_asset: 29346.90
+total_reward: 19346.90
+total_cost: 9.99
+total_trades: 18108
+Sharpe: 0.699

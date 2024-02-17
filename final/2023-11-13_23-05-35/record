@@ -1,0 +1,21 @@
+training_epoches_torch = 320
+------------------------------------
+| time/              |             |
+|    episodes        | 28          |
+|    fps             | 48          |
+|    time_elapsed    | 879         |
+|    total_timesteps | 42280       |
+| train/             |             |
+|    actor_loss      | -0.00709    |
+|    critic_loss     | 0.000149    |
+|    learning_rate   | 0.001       |
+|    n_updates       | 40770       |
+|    reward          | -0.01869777 |
+------------------------------------
+day: 1509, episode: 30
+begin_total_asset: 10000.00
+end_total_asset: 19869.25
+total_reward: 9869.25
+total_cost: 9.99
+total_trades: 21112
+Sharpe: 0.543

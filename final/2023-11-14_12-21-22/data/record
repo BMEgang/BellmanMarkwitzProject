@@ -1,0 +1,50 @@
+系统随机
+400epoch
+
+-------------------------------------
+| time/              |              |
+|    episodes        | 24           |
+|    fps             | 49           |
+|    time_elapsed    | 730          |
+|    total_timesteps | 36240        |
+| train/             |              |
+|    actor_loss      | -0.371       |
+|    critic_loss     | 0.000246     |
+|    learning_rate   | 0.001        |
+|    n_updates       | 34730        |
+|    reward          | -0.024670593 |
+-------------------------------------
+-------------------------------------
+| time/              |              |
+|    episodes        | 28           |
+|    fps             | 49           |
+|    time_elapsed    | 852          |
+|    total_timesteps | 42280        |
+| train/             |              |
+|    actor_loss      | -0.278       |
+|    critic_loss     | 0.00017      |
+|    learning_rate   | 0.001        |
+|    n_updates       | 40770        |
+|    reward          | -0.024670593 |
+-------------------------------------
+day: 1509, episode: 30
+begin_total_asset: 10000.00
+end_total_asset: 23613.62
+total_reward: 13613.62
+total_cost: 9.99
+total_trades: 19604
+Sharpe: 0.542
+=================================
+-------------------------------------
+| time/              |              |
+|    episodes        | 32           |
+|    fps             | 49           |
+|    time_elapsed    | 974          |
+|    total_timesteps | 48320        |
+| train/             |              |
+|    actor_loss      | -0.206       |
+|    critic_loss     | 0.000187     |
+|    learning_rate   | 0.001        |
+|    n_updates       | 46810        |
+|    reward          | -0.024670593 |
+-------------------------------------

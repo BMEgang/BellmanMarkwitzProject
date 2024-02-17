@@ -1,0 +1,11 @@
+新网络
+450epoch
+3倍权重
+
+day: 1509, episode: 10
+begin_total_asset: 10000.00
+end_total_asset: 27270.57
+total_reward: 17270.57
+total_cost: 9.99
+total_trades: 21126
+Sharpe: 0.679

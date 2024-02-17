@@ -1,0 +1,9 @@
+200 epoch
+
+day: 1509, episode: 30
+begin_total_asset: 10000.00
+end_total_asset: 33046.82
+total_reward: 23046.82
+total_cost: 9.99
+total_trades: 22635
+Sharpe: 0.984

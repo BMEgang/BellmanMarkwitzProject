@@ -1,0 +1,11 @@
+系统随机
+一倍权重
+特征['open', 'high', 'low', 'close', 'volume','macd','close_30_sma','close_60_sma']
+300 epoches
+day: 1509, episode: 20
+begin_total_asset: 10000.00
+end_total_asset: 26729.59
+total_reward: 16729.59
+total_cost: 9.99
+total_trades: 27162
+Sharpe: 0.654

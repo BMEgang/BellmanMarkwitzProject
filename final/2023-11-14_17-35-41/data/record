@@ -1,0 +1,11 @@
+1.25倍
+正常网络
+200 epoch
+
+day: 1509, episode: 10
+begin_total_asset: 10000.00
+end_total_asset: 26669.38
+total_reward: 16669.38
+total_cost: 9.99
+total_trades: 21126
+Sharpe: 0.928

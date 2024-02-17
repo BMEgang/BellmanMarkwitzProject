@@ -1,0 +1,22 @@
+random_seed = 84
+training_epoches_torch = 320
+-------------------------------------
+| time/              |              |
+|    episodes        | 8            |
+|    fps             | 54           |
+|    time_elapsed    | 223          |
+|    total_timesteps | 12080        |
+| train/             |              |
+|    actor_loss      | -0.578       |
+|    critic_loss     | 0.00154      |
+|    learning_rate   | 0.001        |
+|    n_updates       | 10570        |
+|    reward          | -0.020235205 |
+-------------------------------------
+day: 1509, episode: 10
+begin_total_asset: 10000.00
+end_total_asset: 22391.25
+total_reward: 12391.25
+total_cost: 9.99
+total_trades: 25628
+Sharpe: 0.565

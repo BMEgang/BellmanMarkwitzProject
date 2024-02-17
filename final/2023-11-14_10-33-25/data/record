@@ -1,0 +1,22 @@
+random_seed = 72
+
+-------------------------------------
+| time/              |              |
+|    episodes        | 16           |
+|    fps             | 50           |
+|    time_elapsed    | 474          |
+|    total_timesteps | 24160        |
+| train/             |              |
+|    actor_loss      | -1.15        |
+|    critic_loss     | 0.000968     |
+|    learning_rate   | 0.001        |
+|    n_updates       | 22650        |
+|    reward          | -0.019565905 |
+-------------------------------------
+day: 1509, episode: 20
+begin_total_asset: 10000.00
+end_total_asset: 23744.94
+total_reward: 13744.94
+total_cost: 9.99
+total_trades: 19604
+Sharpe: 0.785

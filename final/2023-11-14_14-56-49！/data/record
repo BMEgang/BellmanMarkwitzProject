@@ -1,0 +1,13 @@
+旧网络模型
+1倍权重
+200 epoch
+
+------------------------------------
+day: 1509, episode: 10
+begin_total_asset: 10000.00
+end_total_asset: 26650.50
+total_reward: 16650.50
+total_cost: 9.99
+total_trades: 18108
+Sharpe: 0.681
+===================

@@ -1,0 +1,22 @@
+系统随机
+200次epoche
+-------------------------------------
+| time/              |              |
+|    episodes        | 8            |
+|    fps             | 47           |
+|    time_elapsed    | 256          |
+|    total_timesteps | 12080        |
+| train/             |              |
+|    actor_loss      | -0.373       |
+|    critic_loss     | 0.018        |
+|    learning_rate   | 0.001        |
+|    n_updates       | 10570        |
+|    reward          | -0.024679977 |
+-------------------------------------
+day: 1509, episode: 10
+begin_total_asset: 10000.00
+end_total_asset: 32971.48
+total_reward: 22971.48
+total_cost: 9.99
+total_trades: 22620
+Sharpe: 0.999

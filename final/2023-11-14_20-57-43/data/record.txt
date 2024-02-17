@@ -1,0 +1,7 @@
+day: 1509, episode: 20
+begin_total_asset: 10000.00
+end_total_asset: 29391.61
+total_reward: 19391.61
+total_cost: 9.99
+total_trades: 25653
+Sharpe: 0.701

@@ -1,0 +1,130 @@
+系统随机
+训练eooch300
+-------------------------------------
+| time/              |              |
+|    episodes        | 4            |
+|    fps             | 52           |
+|    time_elapsed    | 114          |
+|    total_timesteps | 6040         |
+| train/             |              |
+|    actor_loss      | -0.308       |
+|    critic_loss     | 0.0307       |
+|    learning_rate   | 0.001        |
+|    n_updates       | 4530         |
+|    reward          | -0.013202924 |
+-------------------------------------
+-------------------------------------
+| time/              |              |
+|    episodes        | 8            |
+|    fps             | 44           |
+|    time_elapsed    | 268          |
+|    total_timesteps | 12080        |
+| train/             |              |
+|    actor_loss      | -0.0894      |
+|    critic_loss     | 0.00612      |
+|    learning_rate   | 0.001        |
+|    n_updates       | 10570        |
+|    reward          | -0.013202924 |
+-------------------------------------
+day: 1509, episode: 10
+begin_total_asset: 10000.00
+end_total_asset: 31022.14
+total_reward: 21022.14
+total_cost: 9.99
+total_trades: 21112
+Sharpe: 0.979
+=================================
+-------------------------------------
+| time/              |              |
+|    episodes        | 12           |
+|    fps             | 42           |
+|    time_elapsed    | 421          |
+|    total_timesteps | 18120        |
+| train/             |              |
+|    actor_loss      | -0.0254      |
+|    critic_loss     | 0.00375      |
+|    learning_rate   | 0.001        |
+|    n_updates       | 16610        |
+|    reward          | -0.013202924 |
+-------------------------------------
+-------------------------------------
+| time/              |              |
+|    episodes        | 16           |
+|    fps             | 42           |
+|    time_elapsed    | 569          |
+|    total_timesteps | 24160        |
+| train/             |              |
+|    actor_loss      | -0.0344      |
+|    critic_loss     | 0.0015       |
+|    learning_rate   | 0.001        |
+|    n_updates       | 22650        |
+|    reward          | -0.013202924 |
+-------------------------------------
+day: 1509, episode: 20
+begin_total_asset: 10000.00
+end_total_asset: 31022.14
+total_reward: 21022.14
+total_cost: 9.99
+total_trades: 21112
+Sharpe: 0.979
+=================================
+-------------------------------------
+| time/              |              |
+|    episodes        | 20           |
+|    fps             | 42           |
+|    time_elapsed    | 717          |
+|    total_timesteps | 30200        |
+| train/             |              |
+|    actor_loss      | -0.0515      |
+|    critic_loss     | 0.000763     |
+|    learning_rate   | 0.001        |
+|    n_updates       | 28690        |
+|    reward          | -0.013202924 |
+-------------------------------------
+-------------------------------------
+| time/              |              |
+|    episodes        | 24           |
+|    fps             | 41           |
+|    time_elapsed    | 868          |
+|    total_timesteps | 36240        |
+| train/             |              |
+|    actor_loss      | -0.0654      |
+|    critic_loss     | 0.000335     |
+|    learning_rate   | 0.001        |
+|    n_updates       | 34730        |
+|    reward          | -0.013202924 |
+-------------------------------------
+-------------------------------------
+| time/              |              |
+|    episodes        | 28           |
+|    fps             | 41           |
+|    time_elapsed    | 1017         |
+|    total_timesteps | 42280        |
+| train/             |              |
+|    actor_loss      | -0.0772      |
+|    critic_loss     | 0.000286     |
+|    learning_rate   | 0.001        |
+|    n_updates       | 40770        |
+|    reward          | -0.013202924 |
+-------------------------------------
+day: 1509, episode: 30
+begin_total_asset: 10000.00
+end_total_asset: 31022.14
+total_reward: 21022.14
+total_cost: 9.99
+total_trades: 21112
+Sharpe: 0.979
+=================================
+-------------------------------------
+| time/              |              |
+|    episodes        | 32           |
+|    fps             | 41           |
+|    time_elapsed    | 1165         |
+|    total_timesteps | 48320        |
+| train/             |              |
+|    actor_loss      | -0.0832      |
+|    critic_loss     | 0.000164     |
+|    learning_rate   | 0.001        |
+|    n_updates       | 46810        |
+|    reward          | -0.013202924 |
+-------------------------------------

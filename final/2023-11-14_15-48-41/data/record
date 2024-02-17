@@ -1,0 +1,11 @@
+简化网络（少了两层）
+一倍权重
+200次训练
+
+day: 1509, episode: 10
+begin_total_asset: 10000.00
+end_total_asset: 18885.65
+total_reward: 8885.65
+total_cost: 9.99
+total_trades: 25653
+Sharpe: 0.490
